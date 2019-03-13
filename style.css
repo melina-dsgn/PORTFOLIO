@@ -688,7 +688,7 @@ ul.work-thumbs li, ul.photo-thumbs li {
 }
 @media only screen and (min-width: 1280px) and (orientation: landscape) {
 	h2 {
-	background-image: linear-gradient(to right, #fff8b9 100%, transparent 75%);
+	background-image: linear-gradient(to right, #fff0 100%, transparent 75%);
     background-position: 0 95%;
     background-repeat: repeat-x;
     background-size: 8px 7px;    
