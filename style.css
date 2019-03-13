@@ -599,13 +599,14 @@ ul.work-thumbs li, ul.photo-thumbs li {
 	.bbb {
 	font-size: 1em;
 	letter-spacing: .05rem;	
-	margin: 20px 25px 5px 0px;
+	margin: 20px 25px 5px 60px;
 	}
 	.ccc {
 	text-align: right;
 	font-size: 1.7em;
 	letter-spacing: .35rem;
-	margin: 7px 20px 0px 60px;
+	padding: 0px 0px 0px 60px;
+	margin: 7px 20px 0px 0px;
 	}
 	.nnn {
 		float:left;
